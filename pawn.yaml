@@ -1,0 +1,12 @@
+site: github.com
+user: ohmypxl
+repo: samp-fps
+
+entry: test.pwn
+output: gamemodes/test.amx
+
+dev_dependencies:
+    - Southclaws/zcmd
+
+dependencies:
+    - pawn-lang/samp-stdlib
