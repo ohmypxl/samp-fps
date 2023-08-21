@@ -19,7 +19,7 @@ static
     bool:Player_g_ToggleFps[MAX_PLAYERS]
 ;
 
-stock ToggleFpsMonitor(playerid, bool:set)
+stock TogglePlayerFpsMonitor(playerid, bool:set)
 {
     if (!IsPlayerConnected(playerid))
     {
