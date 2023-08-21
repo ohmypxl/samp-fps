@@ -1,6 +1,7 @@
 
 #include <a_samp>
 #include <fps>
+#include <zcmd>
 
 public OnPlayerConnect(playerid)
 {
